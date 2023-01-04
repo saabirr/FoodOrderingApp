@@ -1,0 +1,15 @@
+{
+  "name": "My Menu",
+  "menu": [
+    {
+      "mealPrice": 10,
+      "mealCategory": "Vegetarian",
+      "mealName": "Salad"
+    },
+    {
+      "mealPrice": 24,
+      "mealCategory": "Lunch",
+      "mealName": "Pasta"
+    }
+  ]
+}
